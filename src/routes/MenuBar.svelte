@@ -14,7 +14,11 @@
     <p class="mb-1 text-neutral text-sm">Nödsituation</p>
   </a>
 
-  <MenuItem ref="/hjärtstartare" icon="i-mdi-heart-flash" text="Hjärtstartare" />
+  <MenuItem
+    ref="/hjärtstartare"
+    icon="i-mdi-heart-flash"
+    text="Hjärtstartare"
+  />
 
   <MenuItem ref="/om" icon="i-mdi-information-outline" text="Om" />
 </div>

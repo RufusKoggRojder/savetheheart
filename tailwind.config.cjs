@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     fontSize: {
       xs: '0.34rem',
-      sm: '0.53rem',
+      sm: '0.52rem',
       base: '0.64rem',
       xl: '0.8rem',
       '2xl': '1.5rem',
@@ -23,9 +23,9 @@ module.exports = {
           secondary: '#888888',
           accent: '#afe2a1',
           neutral: '#ffffff',
-          'base-100': '#efefef',
+          'base-100': '#ffffff',
           info: '#3abff8',
-          success: '#36d399',
+          success: '#379e37', //defiv
           warning: '#fbbd23',
           error: '#f87272',
         },
