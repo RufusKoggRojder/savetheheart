@@ -9,21 +9,21 @@
 
   <Signifier
     color="primary"
-    ref="/hjärtstopp"
+    ref="/hjartstopp"
     icon="i-mdi-heart"
     text="Hjärtstopp"
   />
 
   <Signifier
     color="primary"
-    ref="/luftvägsstopp"
+    ref="/luftvagsstopp"
     icon="i-mdi-lungs"
     text="Luftvägsstopp"
   />
 
   <Signifier
     color="success"
-    ref="/hjärtstartare"
+    ref="/hjartstartare"
     icon="i-mdi-heart-flash"
     text="Hjärtstartare"
   />

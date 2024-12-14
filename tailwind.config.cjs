@@ -25,9 +25,10 @@ module.exports = {
           neutral: '#ffffff',
           'base-100': '#ffffff',
           info: '#3abff8',
-          success: '#379e37', //defiv
+          success: '#379e37', //defib
           warning: '#fbbd23',
           error: '#f87272',
+          defib: '#379e37'
         },
       },
     ],
